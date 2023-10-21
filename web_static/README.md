@@ -13,7 +13,7 @@ This repository focuses on the foundation of web developement to bring to life t
 
 ### Task 0: Inline styling
 - Create a basic structure with a header and a footer.
-- [View Task](web_static/0-index.html)
+- [View Task](../web_static/0-index.html)
 
 ### Task 1: Head styling
 - Design using the style tag in the head.
